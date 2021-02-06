@@ -24,4 +24,3 @@ https://raw.githubusercontent.com/daylamtayari/Pi-Hole-Blocklist/master/Pi-Hole-
 https://raw.githubusercontent.com/anudeepND/youtubeadsblacklist/master/hosts.txt
 https://raw.githubusercontent.com/HenningVanRaumle/pihole-ytadblock/master/ytadblock.txt
 https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-https://phishing.army/download/phishing_army_blocklist_extended.txt
