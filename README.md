@@ -5,8 +5,3 @@ This repository will auto-generate a `pihole.txt` which is a unique concatinatio
 
 # Contributing
 Update `urls.txt` and create a PR
-
-# Create the list manually
-```bash
-(xargs <urls.txt curl) | sort | uniq | sed -e 's/^[ \t]*//' |  grep -Ev '^#|^-' > pihole.txt
-```
