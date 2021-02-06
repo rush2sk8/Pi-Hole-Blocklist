@@ -3,6 +3,5 @@
 # Create the list
 
 ```bash
-(xargs <urls.txt curl) > merged_urls.txt
-cat merged_urls.txt | sort | uniq > merged_unique.txt
+(xargs <urls.txt curl) | sort | uniq | sed -e 's/^[ \t]*//' |  grep -Ev '^#|^-' > pihole.txt
 ```
