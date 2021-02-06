@@ -23,3 +23,4 @@ https://v.firebog.net/hosts/AdguardDNS.txt
 https://raw.githubusercontent.com/daylamtayari/Pi-Hole-Blocklist/master/Pi-Hole-Blocklist.txt
 https://raw.githubusercontent.com/anudeepND/youtubeadsblacklist/master/hosts.txt
 https://raw.githubusercontent.com/HenningVanRaumle/pihole-ytadblock/master/ytadblock.txt
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
